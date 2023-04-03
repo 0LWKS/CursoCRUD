@@ -1,2 +1,1 @@
-# CursoCRUD
-Projeto feito no curso sobre CRUD com Javascript assíncrono
+#  JS na web: crud com JavaScript assíncrono
